@@ -1,0 +1,16 @@
+{
+  "name": "KRESTIKOM.NET User Albums",
+  "version": "1.0",
+  "description": "KRESTIKOM.NET User Albums extension",
+  "manifest_version": 2,
+
+  "permissions": [
+    "http://krestikom.net/forum/picall.php"
+  ],
+
+  "browser_action": {
+    "default_title": "krestikom.net",
+    "default_icon": "images/icon.png",
+    "default_popup": "popup.html"
+  }
+}

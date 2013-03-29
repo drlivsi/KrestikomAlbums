@@ -1,0 +1,14 @@
+body {
+	min-width: 650px;
+    text-align: center;
+}
+
+#images {
+	float: left;
+}
+
+.picture {
+	min-height: 200px;
+	float: left;
+	margin: 10px;
+}
