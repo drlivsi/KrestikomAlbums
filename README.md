@@ -1,4 +1,4 @@
 KrestikomAlbums
 ===============
 
-Last images from albums krestikom.net
+Google Chrome Extension: Last images from albums krestikom.net
